@@ -1,10 +1,18 @@
 {
   "first-blog-post": {
     "title": "ilk yorum oha diyorum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adip."
+    "description": "merhaba bur test iyi günler"
   },
   "second-blog-post": {
-    "title": "Second Blog Post",
-    "description": "Hello React Router v6"
+    "title": "Pantolona sıçmak hakkında",
+    "description": "pantolona sıçınca olur ya"
+  },
+    "otz-blog-post": {
+    "title": "tutkulardan intihar(joke)",
+    "description": "muhafazalaştıramadıkalrımızdanmısınız"
+  },
+      "oha-blog-post": {
+    "title": "Hayatınıza iyi gelecek 10 şey",
+    "description": "okuduğunuz için teşekkürler"
   }
 }
