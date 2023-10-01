@@ -1,10 +1,10 @@
 {
-  'first-blog-post': {
-    title: 'ilk yorum oha diyorum',
-    description: 'Lorem ipsum dolor sit amet, consectetur adip.'
+  "first-blog-post": {
+    "title": "ilk yorum oha diyorum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip."
   },
-  'second-blog-post': {
-    title: 'Second Blog Post',
-    description: 'Hello React Router v6'
+  "second-blog-post": {
+    "title": "Second Blog Post",
+    "description": "Hello React Router v6"
   }
 }
